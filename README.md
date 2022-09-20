@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Frontend and Backend Development**
 
-- 🌱 I’m currently learning **Python, JavaScript, UI-UX Design**
+- 🌱 I’m currently using of **Python, JavaScript, UI-UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
